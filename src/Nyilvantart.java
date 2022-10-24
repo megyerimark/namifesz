@@ -1,3 +1,15 @@
+/*
+* File: Nyilvantart.java
+* Author: Megyeri Márk Máté
+* Copyright: 2022-10-24, Megyeri Márk Máté
+* Group: Szoft II/N
+* Date: 2022-10-24
+* Github: https://github.com/megyerimark
+* Licenc: GNU GPL
+*/
+ 
+
+
 import java.util.ArrayList;
 import java.util.Arrays;
 
