@@ -13,7 +13,7 @@
 import java.util.ArrayList;
 import java.util.Arrays;
 
-public class Nyilvantarto implements Nev {
+public class Nyilvantart implements Nev {
     @Override
     public ArrayList<String> getNames() {
 
