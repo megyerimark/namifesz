@@ -10,9 +10,17 @@
  
 
 
+import java.util.ArrayList;
 
 public class App {
     public static void main(String[] args) throws Exception {
-        System.out.println("Hello, World!");
+       System.out.println("Megyeri Márk Máté, SZOFT II/N , 2022.10.24");
+       Nyilvantart nyilvantart = new Nyilvantart();
+       ArrayList<String> nevLista=nyilvantart.getNames();
+
+       for(String nev : nevLista){
+        System.out.println(nev);
+       }
     }
 }
+
